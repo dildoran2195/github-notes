@@ -1,7 +1,7 @@
 ## github-notes
 
 ## Git
-#### A system that you can take track of history of a project and many people collaborate on a project together. It is also A piece of software that does:
+#### A system that you can take track of the history of a project and many people collaborate on a project together. It is also A piece of software that does:
 <li>version control</li>
 <li>collaboration</li>
 <li>application</li>
